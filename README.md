@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hansikagamage
-- 👀 I’m interested in Automationnnnnn
-- 🌱 I’m currently learning RPA 
-- 💞️ I’m looking to collaborate on Best Projects
-- 📫 How to reach me ??...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Hansika
+- 👀 I’m interested in Web Development and AI.
+- 🌱 I’m currently learning Programming Concept.
+- 💞️ I’m looking to collaborate on Best Projects.
+- 📫 How to grow up!
+- 😄 What is Next?
+- ⚡ <Errors and Bugs>
 
 <!---
 hansikgamage/hansikgamage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
